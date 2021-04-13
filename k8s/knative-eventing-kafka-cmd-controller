@@ -1,0 +1,1 @@
+FROM gcr.io/knative-releases/knative.dev/eventing-kafka/cmd/channel/consolidated/controller@sha256:c5031cb270d412f3eca6df0f9aa3790b0b9444621d07d432cca9c11db5e93e0a
